@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "CRISPY KARAGE",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "50000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4ece8c4a1fe8fee08e356706281f1d46-1660023045332",
+      "category": "Main Menu"
+    },
+    {
+      "id": 2,
+      "name": "EBI FURAI",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "40000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5925f46145f22f8795e92f9dc3fcf868-1660023667383",
+      "category": "Main Menu"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Katsu",
+      "description": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/55e2725f61e7a8f3e69f7e05f0e4d3f6-1660023177661",
+      "category": "Main Menu"
+    },
+    {
+      "id": 4,
+      "name": "EGG CHICKEN ROLL",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/5d3d928d422a2938d0ff8b130552fb82-1660023814703",
+      "category": "Main Menu"
+    },
+    {
+      "id": 5,
+      "name": "Cold Ocha",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "10000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/de519de6a1ccc02b5af54ad3959e2013-1660032100269",
+      "category": "Beverage"
+    },
+    {
+      "id": 6,
+      "name": "SHUMAY STEAM",
+      "description": "Aliquam sit amet diam in magna bibendum imperdiet.",
+      "price": "15000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/06bbef8204e625fe42f432dbe37707ae-1660030945827",
+      "category": "Snack"
+    },
+    {
+      "id": 7,
+      "name": "ICE AVOCADO COFFEE 500 ML",
+      "description": "Maecenas tristique, est et tempus semper, ",
+      "price": "35000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/595d926d5fe263462868f887ea6a0511-1660031602435",
+      "category": "Beverage"
+    },
+    {
+      "id": 8,
+      "name": "PUDDING COKLAT",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.",
+      "price": "20000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/85d3982312f46a43b9216119c0b76a80-1660030535279",
+      "category": "Desert"
+    },
+    {
+      "id": 9,
+      "name": "SOFT TARO PUDDING",
+      "description": "Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. ",
+      "price": "10000",
+      "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4a5646931f8a95eb1dc57aac76e460c2-1660030617971",
+      "category": "Desert"
+    }
+  ]
+}
